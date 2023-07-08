@@ -1,0 +1,23 @@
+HTML의 기본
+=============<
+
+## 구조
+
+<~></~> 여는태그, 닫히는 태그
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <header>웹 상단부</header>
+            웹 중반부
+        <footer>웹 하단부</footer>
+    </body>
+</html>
+
+h1>오늘의 명언</>
+우리 모두는 <strong>자신의 힘</strong>으로 발견한 내용을 가장 쉽게 익힌다.
+(<a href="https://ko.wikipedia.org/wiki/%EB%8F%84%EB%84%90%EB%93%9C_%EC%BB%A4%EB%88%84%EC%8A%A4" target="_blank" title="전설적인 프로그래머">도널드 커누스</a>)
