@@ -3,6 +3,7 @@
 ## 구조
 
 #### 1. head에 style 태그 써줌
+##### style의 속성값은 항상 css 코드로 작성하는 것이 약속된 바임
 
 ```html
 <!DOCTYPE html>
