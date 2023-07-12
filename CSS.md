@@ -88,7 +88,7 @@
 #### CSS 선택자 우선순위: 아이디 선택자(ID selector) -> 클래스 선택자(Class selector) -> 태그 선택자(Element selector)
 
 1. 태그전체 선택: 그냥 적어주기
-###### ex.<plate>선택원함</plate> 이면,
+###### ex.```<plate>선택원함</plate>``` 이면,
 
    ```html
    plate{
@@ -97,7 +97,7 @@
    ```
 
 2. 특정 id 선택: #이용
-###### ex. <apple id="big">선택원함</apple> 이면,
+###### ex. ```<apple id="big">선택원함</apple>``` 이면,
 
    ```html
    #big{
@@ -106,7 +106,7 @@
    ```
 
 3. 특성 class 선택: .이용
-###### ex. <orange class="small"> 선택원함 </orange> 이면,
+###### ex. ```<orange class="small"> 선택원함 </orange>``` 이면,
 
    ```html
    .orange{
