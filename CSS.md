@@ -109,7 +109,7 @@
 ###### ex. ```<orange class="small"> 선택원함 </orange>``` 이면,
 
    ```html
-   .orange{
+   .small{
    <!-- CSS 코드 작성 -->
    }
    ```
